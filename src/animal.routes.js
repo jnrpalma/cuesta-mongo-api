@@ -1,5 +1,5 @@
 const express = require('express');
-const Animal = require('./cuesta.model');
+const Animal = require('./animal.model');
 const router = express.Router();
 
 // Add new animal
